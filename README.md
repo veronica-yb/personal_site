@@ -1,2 +1,1 @@
-# personal_site
-cv
+my_site
